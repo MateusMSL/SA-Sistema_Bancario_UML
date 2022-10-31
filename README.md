@@ -6,7 +6,7 @@ Link de Acesso para o site: **Temporáriamente Indisponível*
 
 *Oii, Obrigado pelo interesse no meu projeto.*
 
-*Este trabalho foi desenvolvido por mim e meu grupo de estudos (@Fábio, @Guilherme, @Hicaro) e seu intuito era focado no desenvolvimento dos diagramas requisitados relacionados ao tema: *"Sistema Bancário"*, e após isso iniciar o desenvolvimento de um código utilizando as tecnologias que tivermos mais facilidade baseando-se nos diagramas feitos pela equipe*
+*Este trabalho foi desenvolvido por mim e meu grupo de estudos (https://github.com/fabioVitorio, https://github.com/Guilhermegfs, https://github.com/Hicaro-Bauer) e seu intuito era focado no desenvolvimento dos diagramas requisitados relacionados ao tema: *"Sistema Bancário"*, e após isso iniciar o desenvolvimento de um código utilizando as tecnologias que tivermos mais facilidade baseando-se nos diagramas feitos pela equipe*
 
 *Eu, **Mateus**, Trabalhei no desenvolvimento de elaboração do brainstorm de como seria desenvolvido o projeto e suas regras de negócio, requisitos funcionais e não funcionais, Diagramas de Sequencia desenvolvidos utilizando o Diagrama de caso de uso e tambem na criação dos Diagramas de Objetos!*
 
@@ -15,7 +15,7 @@ Link de Acesso para o site: **Temporáriamente Indisponível*
 
 **REGRAS DE NEGÓCIO:**
 
-*Inicialmente nos reunimos, discutimos entre nós o que poderia ser adicionado no sistema e o que não seria possivel pensando tambem no tempo limitado para o desenvolvimento do mesmo.*
+*Inicialmente nos reunimos, e enquanto o aluno: https://github.com/Hicaro-Bauer montava a documentação discutimos entre nós o que poderia ser adicionado no sistema e o que não seria possivel pensando tambem no tempo limitado para o desenvolvimento do mesmo.*
 
 ![image](https://user-images.githubusercontent.com/109548196/199116734-efd9f6fc-70b2-4dbc-9aa3-7cf3f52f6aac.png)
 
@@ -42,7 +42,7 @@ Link de Acesso para o site: **Temporáriamente Indisponível*
 
 **DIAGRAMA DE CASOS DE USO**
 
-*Finalmente iniciando aos diagramas, o primeiro da lista é o diagrama de casos de uso que foi desenvolvido pelo @guilherme.*
+*Finalmente iniciando aos diagramas, o primeiro da lista é o diagrama de casos de uso que foi desenvolvido pelo https://github.com/Guilhermegfs.*
 
 *Podemos notar que fornecer credenciais é um **"INCLUDE"** do saque e da transferência.*
 
@@ -56,7 +56,7 @@ Link de Acesso para o site: **Temporáriamente Indisponível*
 • ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ •
 
 
-*Partindo para os diagramas de atividades elaborados pelo aluno @fábio, temos as seguintes representações da forma mais intuitiva possivel:*
+*Partindo para os diagramas de atividades elaborados pelo aluno https://github.com/fabioVitorio, temos as seguintes representações da forma mais intuitiva possivel:*
 
 
 **DIAGRAMA DE ATIVIDADES - LOGIN*
@@ -105,7 +105,7 @@ Link de Acesso para o site: **Temporáriamente Indisponível*
 
 • ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ •
 
-*esses são os diagramas de sequência, desenvolvidos por mim @MateusMSL*
+*esses são os diagramas de sequência, desenvolvidos por mim: https://github.com/MateusMSL*
 
 
 
@@ -176,7 +176,7 @@ Link de Acesso para o site: **Temporáriamente Indisponível*
 
 **DIAGRAMA DE CLASSE*
 
-*o diagrama de classe desenvolvido pelo @Guilherme é bem tranquilo de entender, usuario realiza login e após sua confirmação é condedido o acesso as funções do sistema que foram citadas anteriormente e nisso cada classe terá seus objetos instânciados, como por exemplo o id do usuario ou seu nome, idade, CPF etc...*
+*o diagrama de classe desenvolvido pelo https://github.com/Guilhermegfs é bem tranquilo de entender, usuario realiza login e após sua confirmação é condedido o acesso as funções do sistema que foram citadas anteriormente e nisso cada classe terá seus objetos instânciados, como por exemplo o id do usuario ou seu nome, idade, CPF etc...*
 
 ![Classe UML](https://user-images.githubusercontent.com/109548196/199123508-bac9ee7d-3122-426c-b697-fe76d15493ed.png)
 
@@ -184,7 +184,7 @@ Link de Acesso para o site: **Temporáriamente Indisponível*
 
 **DIAGRAMA DE OBJETO*
 
-*chegamos ao ultimo diagrâma da lista, desenvolvido tambem por mim, @MateusMSL*
+*chegamos ao ultimo diagrâma da lista, desenvolvido tambem por mim, https://github.com/MateusMSL*
 *o usuário faz login e após isso terá seus atributos. porem especificamente os atributos: "valor_saque, valor_deposito e data_extrato serão utilizados no extrato após realizar um depósito, saque ou transferência.*
 *cada operação gera um extrato novo e atualiza o saldo do usuário conforme o sucesso da operação*
 
@@ -209,23 +209,12 @@ Link de Acesso para o site: **Temporáriamente Indisponível*
 
 
 
-
-
-
-
-
-
-
-
-
-
-• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ •
 **Considerações finais**
 
 *Foi um trabalho dificil, isso não posso negar... trabalhar com documentação é algo facil porem ao mesmo tempo exaustivo, pois se algo sair errado na documentação pode prejudicar o trabalho na hora de realizara a programação.
 todo cuidado ainda é pouco quando se desenvolve um diagrama!
 não é uma das coisas que eu mais gosto de fazer, mas ainda sim foi uma experiência incrivel.
-cada um dos integrantes do grupo ficou responsável por garantir o desenvolvimento de uma parte do produto final com a maior qualidade possivel e designamos para entre nós a separação para o desenvolvimento do que tinhamos mais aptidão, tudo saiu como queriamos graças ao nosso esforço, mas tambem graças ao suporte no desenvolvimento do nosso professor: @wgsantos!*
+cada um dos integrantes do grupo ficou responsável por garantir o desenvolvimento de uma parte do produto final com a maior qualidade possivel e designamos para entre nós a separação para o desenvolvimento do que tinhamos mais aptidão, tudo saiu como queriamos graças ao nosso esforço, mas tambem graças ao suporte no desenvolvimento do nosso professor: @https://github.com/wgtsantos!*
 
 
 **Por fim, muito obrigado pelo seu interesse no meu projeto acadêmico. espero que tenha gostado e em breve irei postar mais coisas que produzir nas aulas!**
