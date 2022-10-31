@@ -199,8 +199,9 @@ Link de Acesso para o site: **Temporáriamente Indisponível*
 **CÓDIGO BASEADO NOS DIAGRAMAS*
 
 *por fim, chegamos aos codigos em PHP e a exibição dos mesmos feita com HTML & CSS.*
-*particularmente eu não acho intuitivo colocar prints dos códigos e sua explicação aqui então abaixo terão apenas algumas prints do código em execução e caso tenham interesse acessem as pastas do projeto, lá basicamente tem os códigos de tudo que foi desenvolvido nos diagramas além de um HTML + CSS simples que desenvolvemos rapidamente só para a exibição dos códigos na apresentação!
+*particularmente eu não acho intuitivo colocar prints dos códigos e sua explicação aqui então abaixo terão apenas uma print rapida da forma que o html e o css operam para a leitura do código antes do login e caso tenham interesse acessem as pastas do projeto, lá basicamente tem os códigos de tudo que foi desenvolvido nos diagramas além de um HTML + CSS simples que desenvolvemos rapidamente só para a exibição dos códigos na apresentação!
 
+![image](https://user-images.githubusercontent.com/109548196/199125081-4f80d250-1456-45af-92e6-d4eb3f22a450.png)
 
 
 
