@@ -214,7 +214,7 @@ Link de Acesso para o site: **Temporáriamente Indisponível*
 *Foi um trabalho dificil, isso não posso negar... trabalhar com documentação é algo facil porem ao mesmo tempo exaustivo, pois se algo sair errado na documentação pode prejudicar o trabalho na hora de realizara a programação.
 todo cuidado ainda é pouco quando se desenvolve um diagrama!
 não é uma das coisas que eu mais gosto de fazer, mas ainda sim foi uma experiência incrivel.
-cada um dos integrantes do grupo ficou responsável por garantir o desenvolvimento de uma parte do produto final com a maior qualidade possivel e designamos para entre nós a separação para o desenvolvimento do que tinhamos mais aptidão, tudo saiu como queriamos graças ao nosso esforço, mas tambem graças ao suporte no desenvolvimento do nosso professor: @https://github.com/wgtsantos!*
+cada um dos integrantes do grupo ficou responsável por garantir o desenvolvimento de uma parte do produto final com a maior qualidade possivel e designamos para entre nós a separação para o desenvolvimento do que tinhamos mais aptidão, tudo saiu como queriamos graças ao nosso esforço, mas tambem graças ao suporte no desenvolvimento do nosso professor: https://github.com/wgtsantos!*
 
 
 **Por fim, muito obrigado pelo seu interesse no meu projeto acadêmico. espero que tenha gostado e em breve irei postar mais coisas que produzir nas aulas!**
