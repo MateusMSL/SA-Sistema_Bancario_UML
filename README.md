@@ -176,13 +176,33 @@ Link de Acesso para o site: **Temporáriamente Indisponível*
 
 **DIAGRAMA DE CLASSE*
 
+*o diagrama de classe desenvolvido pelo @Guilherme é bem tranquilo de entender, usuario realiza login e após sua confirmação é condedido o acesso as funções do sistema que foram citadas anteriormente e nisso cada classe terá seus objetos instânciados, como por exemplo o id do usuario ou seu nome, idade, CPF etc...*
+
+![Classe UML](https://user-images.githubusercontent.com/109548196/199123508-bac9ee7d-3122-426c-b697-fe76d15493ed.png)
+
 • ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ •
 
 **DIAGRAMA DE OBJETO*
 
+*chegamos ao ultimo diagrâma da lista, desenvolvido tambem por mim, @MateusMSL*
+*o usuário faz login e após isso terá seus atributos. porem especificamente os atributos: "valor_saque, valor_deposito e data_extrato serão utilizados no extrato após realizar um depósito, saque ou transferência.*
+*cada operação gera um extrato novo e atualiza o saldo do usuário conforme o sucesso da operação*
+
+![Diagrama de Objetos](https://user-images.githubusercontent.com/109548196/199123759-c428d566-0cde-43f7-8d42-965ba32e2e02.png)
+
+
+
+
+
 • ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ •
 
 **CÓDIGO BASEADO NOS DIAGRAMAS*
+
+*por fim, chegamos aos codigos em PHP e a exibição dos mesmos feita com HTML & CSS.*
+*particularmente eu não acho intuitivo colocar prints dos códigos e sua explicação aqui então abaixo terão apenas algumas prints do código em execução e caso tenham interesse acessem as pastas do projeto, lá basicamente tem os códigos de tudo que foi desenvolvido nos diagramas além de um HTML + CSS simples que desenvolvemos rapidamente só para a exibição dos códigos na apresentação!
+
+
+
 
 • ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ •
 
